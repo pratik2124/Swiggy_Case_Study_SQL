@@ -1,1 +1,1 @@
-# Swiggy_Case_Study_SQL
+# Swiggy Data Analysis Using SQL
