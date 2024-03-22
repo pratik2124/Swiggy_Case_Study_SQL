@@ -5,7 +5,7 @@ Q1.) How Many Restaurants Have a Rating Greater Than 4.5?
 
 select count(distinct restaurant_name) as high_rated_restaurants
 from swiggy
-where rating>4.5;	
+where rating > 4.5;	
        
 Q2.) Which is the Top 1 City With The Highest Number of Restaurants?
 
